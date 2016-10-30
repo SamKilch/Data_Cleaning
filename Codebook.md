@@ -5,6 +5,7 @@ This is a description on how to execute the script and the different processing 
 ## Process steps undertaken by run_analysis.R
 
 The script performes the following steps:
+
 1. Load necessary libraries
 2. Open the files and load the data (first the test, then the train)
     * Load data files
